@@ -1,16 +1,8 @@
-# bill_splitter
+# Bill splitter
 
-A new Flutter application.
+This is a new Flutter application which contains slider and is used to split bills between involved person.Not only this it also has feature to add tip so that total bill can be divided.
 
-## Getting Started
+![Screenshot_2020-03-23-17-24-23-307_com example bill_splitter](https://user-images.githubusercontent.com/36985639/77314388-917b0000-6d2b-11ea-9107-f1175b2eac5c.jpg)
 
-This project is a starting point for a Flutter application.
+![Screenshot_2020-03-23-17-24-36-447_com example bill_splitter](https://user-images.githubusercontent.com/36985639/77314348-7f995d00-6d2b-11ea-8083-8eb0508599a0.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
